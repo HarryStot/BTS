@@ -1,0 +1,15 @@
+#brand-logo {
+    font-size: 34px
+}
+
+#app-navbar {
+    background: linear-gradient(120deg, #a56d50, #827258)
+}
+
+span {
+    font-size: 26px
+}
+
+html {
+    scroll-behavior: smooth
+}
